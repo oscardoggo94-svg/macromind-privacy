@@ -23,6 +23,20 @@ Macromind does **not**:
 
 Uninstalling the app removes all locally stored data.
 
+**Advertising**
+
+This app is supported by advertising and uses Google AdMob, a third-party advertising service provided by Google LLC.
+
+Google AdMob may collect and use certain information to show ads, including but not limited to:
+
+Device information (such as device identifiers)
+
+Ad interaction data (such as views and clicks)
+
+This information is used to display personalized or non-personalized ads, depending on user consent and regional requirements.
+
+The app itself does not collect, store, or process any personal user data.
+
 ---
 
 ## Data Sharing
