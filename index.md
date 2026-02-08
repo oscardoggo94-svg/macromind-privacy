@@ -15,6 +15,7 @@ servers**.
 
 ## Local-Only Data Storage
 All app data remains stored locally on the user’s device.
+This app allows users to create an account using an email address. The email address is stored locally on the user’s device and is used solely for authentication. The app does not transmit or store email addresses on external servers
 
 Macromind does **not**:
 - Upload data to the internet
@@ -45,7 +46,7 @@ No account information is stored on external servers.
 ---
 
 ## Data Sharing
-Macromind does **not sell, share, or disclose** personal data to third parties.
+Macromind does **not sell, share, or disclose** personal data to third parties. Third Party SDKs are used for advertising purposes.
 
 ---
 
