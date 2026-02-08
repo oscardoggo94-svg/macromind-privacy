@@ -37,6 +37,11 @@ This information is used to display personalized or non-personalized ads, depend
 
 The app itself does not collect, store, or process any personal user data.
 
+**Account Deletion**
+This app stores account information locally on the user’s device only.
+Users can delete their account and all associated data at any time by clearing the app’s data or uninstalling the app.
+No account information is stored on external servers.
+
 ---
 
 ## Data Sharing
